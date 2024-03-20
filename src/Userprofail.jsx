@@ -6,36 +6,7 @@ const people = [
         roll:"web Developer",
         img:"./img/img1.jpg"
     },
-    {
-        name:"Madhanprasath",
-        email:"madhanprasath786@gmail.com",
-        roll:"web Developer",
-        img:"./img/img1.jpg"
-    },
-    {
-        name:"Madhanprasath",
-        email:"madhanprasath786@gmail.com",
-        roll:"web Developer",
-        img:"./img/img1.jpg"
-    },
-    {
-        name:"Madhanprasath",
-        email:"madhanprasath786@gmail.com",
-        roll:"web Developer",
-        img:"./img/img1.jpg"
-    },
-    {
-        name:"Madhanprasath",
-        email:"madhanprasath786@gmail.com",
-        roll:"web Developer",
-        img:"./img/img1.jpg"
-    },
-    {
-        name:"Madhanprasath",
-        email:"madhanprasath786@gmail.com",
-        roll:"web Developer",
-        img:"./img/img1.jpg"
-    },
+    
     
 ]
 function Card (props){
